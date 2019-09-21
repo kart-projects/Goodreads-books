@@ -28,7 +28,7 @@ The process involves six main steps for data mining.
                 4. Modeling
                 5. Evaluation
                 6. Deployment
-
+				
 Our main aim with this repo is to provide a practical understanding of this methodology and not rewrite the documentation about each steps since these are available online. For a more detailed information about each steps in this methodology please read https://www.datasciencecentral.com/profiles/blogs/crisp-dm-a-standard-methodology-to-ensure-a-good-outcome.
 
 ## Things to Ponder!<a name="Questions"></a>
@@ -44,7 +44,7 @@ To to gain more insights about the Kaggle's Goodreads-books dataset I began to p
                4. Did the ratings for Harry Potter series follow a trend?
 		
                5. How was the distribution of books across languages?
-
+			   
 ## File Descriptions <a name="files"></a>
 
 There are three python notebooks attached to this repo. Each of these notebooks dive into separate parts of the CRISP-DM methodology inorder to understand the dataset well and infer useful insights from it.
