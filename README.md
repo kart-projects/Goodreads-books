@@ -1,5 +1,5 @@
 ## Welcome to Data Analysis using CRISP-DM
-In this project we will analyse the Goodreads-books dataset from kaggle website. 
+In this project we will analyse the Goodreads-books dataset from the Kaggle website. 
 
 ### Table of Contents
 
@@ -44,14 +44,14 @@ To to gain more insights about the Kaggle's Goodreads-books dataset I began to p
 
 There are three python notebooks attached to this repo. Each of these notebooks dive into separate parts of the CRISP-DM methodology inorder to understand the dataset and infer useful insights from it.
 
-1. DataExploration.ipynb - This notebook explores the data to understand the features available in data and also makes the data ready to create 
-                           inferential statistics.
+1. *DataExploration.ipynb*
+     This notebook explores the data to understand the features available in data and also makes the data ready to create descriptive statistics.
 				
-2. InferentialDataAnalysis.ipynb - This notebook looks at each features in more detail to understand their value by creating inferential  
-                                   statistics like Means, Standard Deviations, Histograms and Scatterplot matrices.
+2. *DescriptiveDataAnalysis.ipynb*
+     This notebook looks at each features in more detail to understand their value by creating descriptive statistics like Means and Standard Deviations for quantitative variables and plots like Histograms and Scatterplot matrices for qualitative variables in the dataset.
 
-3. SolveTheQueries.ipynb - This notebook helps us answer the queries we wanted to ponder by using break-down statistics and data mining if 
-                           required.
+3. *SolveTheQueries.ipynb*
+     This notebook helps us answer the queries we wanted to ponder by using break-down statistics and data mining if required.
 			   
 ## Results<a name="results"></a>
 
