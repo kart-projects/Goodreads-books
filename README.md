@@ -17,7 +17,7 @@ The available python notebook files should run with Anaconda distribution of Pyt
 
 As a software developer I always wanted to develop a second hobby i.e. to read non-technical and interesting books or stories. Recently I found myself reading reviews about non-technical books on websites like Amazon and even looking for good books for my kids. During such occasion I stumbled upon https://www.goodreads.com.com and noticed that the site provides not only a good list of books to read but also questions on books to test your knowledge. When I saw the Goodreads-books dataset in Kaggle, I was immediately interested to explore it. But how do I use the CRISP-DM data mining methodology on this dataset and explore it? I wanted to spend time to do an Exploratory Data Analysis (EDA) on this dataset and at the same time also understand the CRISP-DM methodology. So, here we are with this Good-reads repo.
 
-##What is CRISP-DM?<a name="CRISP-DM"></a>
+## What is CRISP-DM?<a name="CRISP-DM"></a>
 CRISP-DM stands for Cross Industry Standard Process for Data Mining. It provides a structured approach to planning a data mining project.
 The process involves six main steps for data mining process.
 1. Business understanding
@@ -29,7 +29,7 @@ The process involves six main steps for data mining process.
 
 Out aim with this repo is to not write documentation about something that is already available. So, a more detailed information on this methodology can be found here https://en.wikipedia.org/wiki/Cross-industry_standard_process_for_data_mining
 
-##Things to Ponder!
+## Things to Ponder!<a name="Questions"></a>
 To to gain more insights about the Kaggle's Goodreads-books dataset I began to ponder into few questions 
 1. Which authors have written the most books in the dataset (peek into the top 10)?
 2. List of top 10 highly rated authors and 5 authors who have bad ratings.
