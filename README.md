@@ -26,9 +26,9 @@ The process involves six main steps for data mining.
 
 Our main aim with this repo is to provide a practical understanding of this methodology and not rewrite the documentation about each steps since these are available online. For a more detailed information about each steps in this methodology please read https://www.datasciencecentral.com/profiles/blogs/crisp-dm-a-standard-methodology-to-ensure-a-good-outcome.
 
-## Things to Ponder! :thinking: <a name="Questions"></a>
+## Questions? :thinking: <a name="Questions"></a>
 
-To to gain more insights about the Kaggle's Goodreads-books dataset I began to ponder into few questions 
+To get more insights about the Goodreads-books dataset, I wanted to find answers for the following questions: 
 
 1. Which authors wrote the most books (peek into the top 10)?
 
