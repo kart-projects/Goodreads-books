@@ -21,14 +21,9 @@ As a software developer I always wanted to develop a second hobby i.e. to read n
 
 CRISP-DM stands for Cross Industry Standard Process for Data Mining. It provides a structured approach to planning a data mining project.
 The process involves six main steps for data mining.
-				
-                1. Business understanding
-                2. Data understanding
-                3. Data Preparation
-                4. Modeling
-                5. Evaluation
-                6. Deployment
-				
+
+![alt text](https://www.sv-europe.com/wp-content/uploads/2016/04/Screenshot-2016-04-20-11.58.54.png "CRISP-DM Methodology")
+
 Our main aim with this repo is to provide a practical understanding of this methodology and not rewrite the documentation about each steps since these are available online. For a more detailed information about each steps in this methodology please read https://www.datasciencecentral.com/profiles/blogs/crisp-dm-a-standard-methodology-to-ensure-a-good-outcome.
 
 ## Things to Ponder!<a name="Questions"></a>
