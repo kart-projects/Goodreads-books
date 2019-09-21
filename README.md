@@ -37,7 +37,7 @@ To to gain more insights about the Kaggle's Goodreads-books dataset I began to p
 
                1. Which authors wrote the most books (peek into the top 10)?
 		
-		       2. Who are the top 10 highly rated and the bottom 5 poorly rated authors?
+               2. Who are the top 10 highly rated and the bottom 5 poorly rated authors?
 			   
                3. Did the books with more text reviews receive higher ratings?
 		
@@ -47,7 +47,7 @@ To to gain more insights about the Kaggle's Goodreads-books dataset I began to p
 			   
 ## File Descriptions <a name="files"></a>
 
-There are three python notebooks attached to this repo. Each of these notebooks dive into separate parts of the CRISP-DM methodology inorder to understand the dataset well and infer useful insights from it.
+There are three python notebooks attached to this repo. Each of these notebooks dive into separate parts of the CRISP-DM methodology inorder to understand the dataset and infer useful insights from it.
 
 1. DataExploration.ipynb - This notebook explores the data to understand the features available in data and also makes the data ready to create 
                            inferential statistics.
