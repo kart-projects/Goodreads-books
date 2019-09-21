@@ -18,24 +18,32 @@ The available python notebook files should run with Anaconda distribution of Pyt
 As a software developer I always wanted to develop a second hobby i.e. to read non-technical and interesting books or stories. Recently I found myself reading reviews about non-technical books on websites like Amazon and even looking for good books for my kids. During such occasion I stumbled upon https://www.goodreads.com.com and noticed that the site provides not only a good list of books to read but also questions on books to test your knowledge. When I saw the Goodreads-books dataset in Kaggle, I was immediately interested to explore it. But how do I use the CRISP-DM data mining methodology on this dataset and explore it? I wanted to spend time to do an Exploratory Data Analysis (EDA) on this dataset and at the same time also understand the CRISP-DM methodology. So, here we are with this Good-reads repo.
 
 ## What is CRISP-DM?<a name="CRISP-DM"></a>
-CRISP-DM stands for Cross Industry Standard Process for Data Mining. It provides a structured approach to planning a data mining project.
-The process involves six main steps for data mining process.
-1. Business understanding
-2. Data understanding
-3. Data Preparation
-4. Modeling
-5. Evaluation
-6. Deployment
 
-Out aim with this repo is to not write documentation about something that is already available. So, a more detailed information on this methodology can be found here https://en.wikipedia.org/wiki/Cross-industry_standard_process_for_data_mining
+CRISP-DM stands for Cross Industry Standard Process for Data Mining. It provides a structured approach to planning a data mining project.
+The process involves six main steps for data mining.
+				
+				1. Business understanding
+				2. Data understanding
+				3. Data Preparation
+				4. Modeling
+				5. Evaluation
+				6. Deployment
+
+Our main aim with this repo is to provide a practical understanding of this methodology and not rewrite the documentation about each steps since these are available online. For a more detailed information about each steps in this methodology please read https://www.datasciencecentral.com/profiles/blogs/crisp-dm-a-standard-methodology-to-ensure-a-good-outcome.
 
 ## Things to Ponder!<a name="Questions"></a>
+
 To to gain more insights about the Kaggle's Goodreads-books dataset I began to ponder into few questions 
-1. Which authors have written the most books in the dataset (peek into the top 10)?
-2. List of top 10 highly rated authors and 5 authors who have bad ratings.
-3. Do books with more text reviews get more ratings? Are these variables correlated? 
-4. How were the ratings for Harry Potter series? 
-5. How are books distributed across languages?
+
+		1. Which authors wrote the most books (peek into the top 10)?
+		
+		2. Who are the top 10 highly rated and the bottom 5 poorly rated authors?
+		
+		3. Did the books with more text reviews receive higher ratings?
+		
+		4. Did the ratings for Harry Potter series follow a trend from the first to the last volume available in the dataset?
+		
+		5. How was the distribution of books across languages?
 
 ## File Descriptions <a name="files"></a>
 
