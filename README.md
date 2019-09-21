@@ -1,37 +1,49 @@
-## Welcome to GitHub Pages
+## Welcome to Data Analysis using CRISP-DM
+In this project we will analyse the Goodreads-books dataset from kaggle website. 
 
-You can use the [editor on GitHub](https://github.com/kart-projects/Goodreads-books/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+### Table of Contents
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+1. [Installation](#installation)
+2. [Project Motivation](#motivation)
+3. [File Descriptions](#files)
+4. [Results](#results)
+5. [Licensing, Authors, and Acknowledgements](#licensing)
 
-### Markdown
+## Installation <a name="installation"></a>
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+The available python notebook files should run with Anaconda distribution of Python versions 3.*.
 
-```markdown
-Syntax highlighted code block
+## Project Motivation<a name="motivation"></a>
 
-# Header 1
-## Header 2
-### Header 3
+As a software developer I always wanted to develop a second hobby i.e. to read non-technical and interesting books or stories. Recently I found myself reading reviews about non-technical books on websites like Amazon and even looking for good books for my kids. During such occasion I stumbled upon https://www.goodreads.com.com and noticed that the site provides not only a good list of books to read but also questions on books to test your knowledge. When I saw the Goodreads-books dataset in Kaggle, I was immediately interested to explore it. But how do I use the CRISP-DM data mining methodology on this dataset and explore it? I wanted to spend time to do an Exploratory Data Analysis (EDA) on this dataset and at the same time also understand the CRISP-DM methodology. So, here we are with this Good-reads repo.
 
-- Bulleted
-- List
+##What is CRISP-DM?<a name="CRISP-DM"></a>
+CRISP-DM stands for Cross Industry Standard Process for Data Mining. It provides a structured approach to planning a data mining project.
+The process involves six main steps for data mining process.
+1. Business understanding
+2. Data understanding
+3. Data Preparation
+4. Modeling
+5. Evaluation
+6. Deployment
 
-1. Numbered
-2. List
+Out aim with this repo is to not write documentation about something that is already available. So, a more detailed information on this methodology can be found here https://en.wikipedia.org/wiki/Cross-industry_standard_process_for_data_mining
 
-**Bold** and _Italic_ and `Code` text
+##Things to Ponder!
+To to gain more insights about the Kaggle's Goodreads-books dataset I began to ponder into few questions 
+1. Which authors have written the most books in the dataset (peek into the top 10)?
+2. List of top 10 highly rated authors and 5 authors who have bad ratings.
+3. Do books with more text reviews get more ratings? Are these variables correlated? 
+4. How were the ratings for Harry Potter series? 
+5. How are books distributed across languages?
 
-[Link](url) and ![Image](src)
-```
+## File Descriptions <a name="files"></a>
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-### Jekyll Themes
+## Results<a name="results"></a>
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/kart-projects/Goodreads-books/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
-### Support or Contact
+## Licensing, Authors, Acknowledgements<a name="licensing"></a>
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+You can find the Licensing for the data and other descriptive information at the Kaggle link available [here](https://www.kaggle.com/jealousleopard/goodreadsbooks). 
+
