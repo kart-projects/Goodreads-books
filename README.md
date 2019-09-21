@@ -22,12 +22,12 @@ As a software developer I always wanted to develop a second hobby i.e. to read n
 CRISP-DM stands for Cross Industry Standard Process for Data Mining. It provides a structured approach to planning a data mining project.
 The process involves six main steps for data mining.
 				
-				1. Business understanding
-				2. Data understanding
-				3. Data Preparation
-				4. Modeling
-				5. Evaluation
-				6. Deployment
+				# 1. Business understanding
+				# 2. Data understanding
+				# 3. Data Preparation
+				# 4. Modeling
+				# 5. Evaluation
+				# 6. Deployment
 
 Our main aim with this repo is to provide a practical understanding of this methodology and not rewrite the documentation about each steps since these are available online. For a more detailed information about each steps in this methodology please read https://www.datasciencecentral.com/profiles/blogs/crisp-dm-a-standard-methodology-to-ensure-a-good-outcome.
 
@@ -35,15 +35,15 @@ Our main aim with this repo is to provide a practical understanding of this meth
 
 To to gain more insights about the Kaggle's Goodreads-books dataset I began to ponder into few questions 
 
-		1. Which authors wrote the most books (peek into the top 10)?
+			# 1. Which authors wrote the most books (peek into the top 10)?
 		
-		2. Who are the top 10 highly rated and the bottom 5 poorly rated authors?
+			# 2. Who are the top 10 highly rated and the bottom 5 poorly rated authors?
 		
-		3. Did the books with more text reviews receive higher ratings?
+			# 3. Did the books with more text reviews receive higher ratings?
 		
-		4. Did the ratings for Harry Potter series follow a trend from the first to the last volume available in the dataset?
+			# 4. Did the ratings for Harry Potter series follow a trend?
 		
-		5. How was the distribution of books across languages?
+			# 5. How was the distribution of books across languages?
 
 ## File Descriptions <a name="files"></a>
 
