@@ -26,19 +26,19 @@ The process involves six main steps for data mining.
 
 Our main aim with this repo is to provide a practical understanding of this methodology and not rewrite the documentation about each steps since these are available online. For a more detailed information about each steps in this methodology please read https://www.datasciencecentral.com/profiles/blogs/crisp-dm-a-standard-methodology-to-ensure-a-good-outcome.
 
-## Things to Ponder!<a name="Questions"></a>
+## Things to Ponder! :thinking: <a name="Questions"></a>
 
 To to gain more insights about the Kaggle's Goodreads-books dataset I began to ponder into few questions 
 
-               1. Which authors wrote the most books (peek into the top 10)?
-		
-               2. Who are the top 10 highly rated and the bottom 5 poorly rated authors?
-			   
-               3. Did the books with more text reviews receive higher ratings?
-		
-               4. Did the ratings for Harry Potter series follow a trend?
-		
-               5. How was the distribution of books across languages?
+1. Which authors wrote the most books (peek into the top 10)?
+
+2. Who are the top 10 highly rated and the bottom 5 poorly rated authors?
+
+3. Did the books with more text reviews receive higher ratings?
+
+4. Did the ratings for Harry Potter series follow a trend?
+
+5. How was the distribution of books across languages?
 			   
 ## File Descriptions <a name="files"></a>
 
