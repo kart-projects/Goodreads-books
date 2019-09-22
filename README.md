@@ -38,11 +38,11 @@ To get more insights about the Goodreads-books dataset, I wanted to find answers
 
 4. Did the ratings for Harry Potter series follow a trend?
 
-5. How was the distribution of books across languages?
+5. How books distributed across languages?
 			   
 ## File Descriptions <a name="files"></a>
 
-There are three python notebooks attached to this repo. Each of these notebooks dive into separate parts of the CRISP-DM methodology inorder to understand the dataset and infer useful insights from it.
+There are three python notebooks attached to this repo. Each of these notebooks explore separate steps of the CRISP-DM methodology inorder to understand the dataset and infer useful insights from it.
 
 1. **DataExploration.ipynb**
      - This notebook explores the data to understand the features available in data and also makes the data ready to create descriptive statistics.
@@ -58,5 +58,5 @@ There are three python notebooks attached to this repo. Each of these notebooks 
 
 ## Licensing, Authors, Acknowledgements<a name="licensing"></a>
 
-You can find the Licensing for the data and other descriptive information at the Kaggle link available [here](https://www.kaggle.com/jealousleopard/goodreadsbooks). Also I should mention that the article link explaining the CRISP-DM methodology was shared from DataScienceCentral.com website.
+You can find the Licensing for the data and other descriptive information at the Kaggle link available [here](https://www.kaggle.com/jealousleopard/goodreadsbooks). Also I should mention that the article link explaining the CRISP-DM methodology was shared from [here](https://www.datasciencecentral.com/page/search?q=CRISP+DM).
 
