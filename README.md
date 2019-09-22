@@ -23,7 +23,7 @@ Hint: To check for the current working directory using the available notebooks j
 
 ## Motivation<a name="motivation"></a>
 
-As a software developer I always wanted to develop a second hobby like reading a non-technical and interesting books. Recently I found myself reading reviews about non-technical books on websites like Amazon.com. I was even looking for good books for my kid's Reading Counts tests at school. During such occasion I stumbled upon https://www.goodreads.com.com and noticed that the site provides not only a good list of books to read but also questions on books to test your knowledge of the content. When I saw the Goodreads-books dataset in Kaggle's website, I was immediately interested to explore it. But how do I use the CRISP-DM data mining methodology on this dataset and explore it? I wanted to spend time and do an Exploratory Data Analysis (EDA) on this dataset and also understand the CRISP-DM methodology. So, here we are with this Good-reads repo.
+As a software developer I always wanted to develop a second hobby like reading non-technical and interesting books. Recently I was reading reviews about non-technical books on websites like Amazon.com to pick a list of good books for my kid's Reading Counts test. During such an occasion I stumbled upon https://www.goodreads.com.com and noticed that the site provides not only a good list of books to read but also questions on books to test your knowledge of the content. When I saw the Goodreads-books dataset in Kaggle's website, I was immediately interested to explore it. But how do I use the CRISP-DM data mining methodology on this dataset and explore it? I wanted to spend time and do an Exploratory Data Analysis (EDA) on this dataset, at the same time understand the CRISP-DM methodology. So, here we are with this Good-reads repo.
 
 ## What is CRISP-DM?<a name="CRISP-DM"></a>
 
@@ -50,22 +50,22 @@ To get more insights about the Goodreads-books dataset, I wanted to find answers
 			   
 ## Jupyter Notebook File Descriptions <a name="files"></a>
 
-There are three python notebooks attached to this repo. Each of these notebooks explore separate steps of the CRISP-DM methodology to understand the dataset and infer useful insights from it.
+There are three python notebooks attached to this repo. Each of these notebooks explore the pragmatic steps of the CRISP-DM methodology to understand the dataset and infer useful insights from it.
 
 1. **DataExploration.ipynb**
-     - This notebook explores the data to understand each features individually. We perform univariate descriptive analysis on each feature to understand the data better. We create plots like Histograms and Box-plots for the quantitative variables and look at the breakdown of unique values for the qualitative variables.
+     - This notebook explores the data to understand each features individually. We perform a univariate descriptive analysis on each feature to understand the data better. We then create plots like Histograms and Box-plots for the quantitative variables and look at the breakdown of unique values for the qualitative variables.
 				
 2. **DataAnalysis.ipynb**
-     - This notebook looks at each features and performs dataminig analysis on the selected input variables (X's) to predict the average rating (Y) for a book. We split the data into two sub-samples based on high and low user ratings for each books. We then train and test two models to predict average ratings on these two subset data. Finally, we understood the model quality based on  average prediction errors by looking at the Mean Absolute Error (MAE), Mean Squared Error (MSE) and Root Mean Squared Error (RMSE).
+     - This notebook looks at each features and performs datamining analysis on the selected input variables (X's) to predict the average rating (Y) for a book. We have split the data into two subsets based on high and low user ratings for each books. We then trained and tested two models to predict average ratings on these two subset data. Finally, we understood the model quality based on the average prediction errors by looking at the Mean Absolute Error (MAE), Mean Squared Error (MSE) and Root Mean Squared Error (RMSE).
 
 3. **Queries.ipynb**
-     - This notebook looks at the business related queries we wanted to ponder in the Queries section above by using break-down statistics and data mining techniques.
+     - This notebook looks at the business related queries we wanted to ponder in the Queries section above. We do this by using break-down analysis and applying previous knowledge we gained about the data using the other two notebooks.
 			   
 ## Summary Results<a name="results"></a>
 
-The results of our data exploration involving a thorough understanding of the features are well summarized in the DataExploration.ipynb notebook. We created two Linear Regression model's and predicted the average rating of test set cases using the built model. This is all summarized in DataAnalysis.ipynb notebook. Finally, we answered our important business questions by exploring the dataset further and reaping more insights from it. This is documented in the last Python notebook Queries.ipynb. 
+The results of our data exploration involving a thorough understanding of all the features in the datase are summarized in the DataExploration.ipynb notebook. We created two Linear Regression model's and predicted the average rating of test set cases using the built models. The model evaluation part is summarized in the DataAnalysis.ipynb notebook. Finally, we answered our important business questions by exploring the dataset further and reaping more insights from it. This is documented in the last Python notebook Queries.ipynb. 
 
-To get more understanding from a business use case perspective rather than reading technical analysis that was performed in this project please check out the blog post here.
+For more insights from a business use case perspective of the various techical analysis performed in this repo, please check out my blog post here.
 
 ## Licensing, Authors, Acknowledgements<a name="licensing"></a>
 
