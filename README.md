@@ -5,8 +5,8 @@ In this project we will analyse the Goodreads-books dataset from the Kaggle webs
 
 1. [Installation](#installation)
 2. [Motivation](#motivation)
-3. [What is CRISP-DM?] (#CRISP-DM)
-4. [Queries] (#Queries)
+3. [What is CRISP-DM?](#CRISP-DM)
+4. [Queries](#Queries)
 4. [Jupyter Notebook File Descriptions](#files)
 4. [Summary Results](#summaryresults)
 5. [Licensing, Authors, and Acknowledgements](#licensing)
