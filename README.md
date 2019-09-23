@@ -65,7 +65,7 @@ There are three python notebooks attached to this repo. Each of these notebooks 
 
 The results of our data exploration involving a thorough understanding of all the features in the datase are summarized in the DataExploration.ipynb notebook. We created two Linear Regression model's and predicted the average rating of test set cases using the built models. The model evaluation part is summarized in the DataAnalysis.ipynb notebook. Finally, we answered our important business questions by exploring the dataset further and reaping more insights from it. This is documented in the last Python notebook Queries.ipynb. 
 
-For more insights from a business use case perspective of the various techical analysis performed in this repo, please check out my blog post here.
+For more insights from a business use case perspective of the various techical analysis performed in this repo, please check out my blog post [here](https://medium.com/@karthic.guna/do-you-love-reading-lets-use-data-mining-and-find-some-good-reads-for-you-e5bf1b576316).
 
 ## Licensing, Authors, Acknowledgements<a name="licensing"></a>
 
