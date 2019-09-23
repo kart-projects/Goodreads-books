@@ -23,7 +23,7 @@ Hint: To check for the current working directory using the available notebooks j
 
 ## Motivation<a name="motivation"></a>
 
-As a software developer I always wanted to develop a second hobby like reading non-technical and interesting books. Recently I was reading reviews about non-technical books on websites like Amazon.com to pick a list of good books for my kid's Reading Counts test. During such an occasion I stumbled upon https://www.goodreads.com.com and noticed that the site provides not only a good list of books to read but also questions on books to test your knowledge of the content. When I saw the Goodreads-books dataset in Kaggle's website, I was immediately interested to explore it. But how do I use the CRISP-DM data mining methodology on this dataset and explore it? I wanted to spend time and do an Exploratory Data Analysis (EDA) on this dataset, at the same time understand the CRISP-DM methodology. So, here we are with this Good-reads repo.
+As a software developer I always wanted to develop a second hobby like reading non-technical and interesting books. Recently I was reading reviews about non-technical books on websites like Amazon.com to pick a list of good books for my kid's Reading Counts test. During such an occasion I stumbled upon https://www.goodreads.com.com and noticed that the site provides not only a good list of books to read but also questions on books to test your knowledge of the content. When I saw the Goodreads-books dataset in Kaggle's website, I was immediately interested to explore it. But how do I use the CRISP-DM data mining methodology on this dataset and explore it? I wanted to spend time and do an Exploratory Data Analysis (EDA) on this dataset, at the same time understand the CRISP-DM methodology. So, here I amw ith this Good-reads repo.
 
 ## What is CRISP-DM?<a name="CRISP-DM"></a>
 
@@ -69,5 +69,5 @@ For more insights from a business use case perspective of the various techical a
 
 ## Licensing, Authors, Acknowledgements<a name="licensing"></a>
 
-You can find the Licensing for the data and other descriptive information at the Kaggle link available [here](https://www.kaggle.com/jealousleopard/goodreadsbooks). Also I should mention that the article linked here for extra reading to understand the CRISP-DM methodology was shared from the datasciencecentral website [here](https://www.datasciencecentral.com/page/search?q=CRISP+DM).
+You can find the Licensing for the data and other descriptive information at the Kaggle link available [here](https://www.kaggle.com/jealousleopard/goodreadsbooks). Also I should mention that the article linked here for extra reading to understand the CRISP-DM methodology was shared from the datasciencecentral website [here](https://www.datasciencecentral.com/page/search?q=CRISP+DM). Feel free to use the attached notebook files as you would like!
 
