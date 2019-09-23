@@ -23,7 +23,7 @@ Hint: To check for the current working directory using the available notebooks j
 
 ## Motivation<a name="motivation"></a>
 
-As a software developer I always wanted to develop a second hobby like reading non-technical and interesting books. Recently I was reading reviews about non-technical books on websites like Amazon.com to pick a list of good books for my kid's Reading Counts test. During such an occasion I stumbled upon https://www.goodreads.com.com and noticed that the site provides not only a good list of books to read but also questions on books to test your knowledge of the content. When I saw the Goodreads-books dataset in Kaggle's website, I was immediately interested to explore it. But how do I use the CRISP-DM data mining methodology on this dataset and explore it? I wanted to spend time and do an Exploratory Data Analysis (EDA) on this dataset, at the same time understand the CRISP-DM methodology. So, here I amw ith this Good-reads repo.
+As a software developer I always wanted to develop a second hobby like reading non-technical and interesting books. Recently I was reading reviews about non-technical books on websites like Amazon.com to pick a list of good books for my kid's Reading Counts test. During such an occasion I stumbled upon https://www.goodreads.com.com and noticed that the site provides not only a good list of books to read but also questions on books to test your knowledge of the content. When I saw the Goodreads-books dataset in Kaggle's website, I was immediately interested to explore it. But how do I use the CRISP-DM data mining methodology on this dataset and explore it? I wanted to spend time and do an Exploratory Data Analysis (EDA) on this dataset, at the same time understand the CRISP-DM methodology. So, here I am with this Good-reads repo.
 
 ## What is CRISP-DM?<a name="CRISP-DM"></a>
 
@@ -32,7 +32,7 @@ The process involves six main steps for data mining.
 
 ![alt text](Images/CRISP-DM.png "CRISP-DM Methodology")
 
-Our main aim with this repo is to provide a practical understanding of this methodology and not to re-write the entire documentation about each steps. These are already available online. For a more detailed information about each steps in this methodology please checkout https://www.datasciencecentral.com/profiles/blogs/crisp-dm-a-standard-methodology-to-ensure-a-good-outcome.
+Our main aim with this repo is to provide a practical understanding of this methodology and not to rewrite the entire documentation about each steps. These are already available online. For a detailed information about each steps in this methodology please checkout https://www.datasciencecentral.com/profiles/blogs/crisp-dm-a-standard-methodology-to-ensure-a-good-outcome.
 
 ## Queries :thinking: <a name="Questions"></a>
 
@@ -63,11 +63,11 @@ There are three python notebooks attached to this repo. Each of these notebooks 
 			   
 ## Summary Results<a name="results"></a>
 
-The results of our data exploration involving a thorough understanding of all the features in the datase are summarized in the DataExploration.ipynb notebook. We created two Linear Regression model's and predicted the average rating of test set cases using the built models. The model evaluation part is summarized in the DataAnalysis.ipynb notebook. Finally, we answered our important business questions by exploring the dataset further and reaping more insights from it. This is documented in the last Python notebook Queries.ipynb. 
+The results of our data exploration involving a thorough understanding of all the features in the dataset are summarized in the DataExploration.ipynb notebook. We created two Linear Regression model's and predicted the average rating of test set cases using the same. The model evaluation part is summarized in the DataAnalysis.ipynb notebook. Finally, we answered the important business questions by exploring the dataset further and finding more insights from it. This is documented in the last Python notebook Queries.ipynb. 
 
 For more insights from a business use case perspective of the various techical analysis performed in this repo, please check out my blog post [here](https://medium.com/@karthic.guna/do-you-love-reading-lets-use-data-mining-and-find-some-good-reads-for-you-e5bf1b576316).
 
 ## Licensing, Authors, Acknowledgements<a name="licensing"></a>
 
-You can find the Licensing for the data and other descriptive information at the Kaggle link available [here](https://www.kaggle.com/jealousleopard/goodreadsbooks). Also I should mention that the article linked here for extra reading to understand the CRISP-DM methodology was shared from the datasciencecentral website [here](https://www.datasciencecentral.com/page/search?q=CRISP+DM). Feel free to use the attached notebook files as you would like!
+You can find the Licensing and other descriptive information about the Goodreads-books dataset at Kaggle's website [here](https://www.kaggle.com/jealousleopard/goodreadsbooks). Also I should mention that the article linked here for extra reading to understand the CRISP-DM methodology was shared from the datasciencecentral website [here](https://www.datasciencecentral.com/page/search?q=CRISP+DM). Feel free to use the attached code in the Python Jupyter notebook files as you would like! Keep coding to understand and apply datascience.
 
